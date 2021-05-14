@@ -15,7 +15,7 @@ Citation:
     Smets, B., 2021. Script to calculate the minimum and ideal shutter
     speeds, at a given flight speed, for the planning of an aerial
     imaging survey. Version 1.0.0,
-    Github path or DOI
+    https://github.com/GeoRiskA/Aerial_Survey_Planning
 
 """
 
