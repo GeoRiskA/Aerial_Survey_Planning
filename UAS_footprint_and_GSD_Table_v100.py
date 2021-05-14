@@ -13,7 +13,8 @@ Author: Benoît SMETS
 Citation:
     Smets, B., 2021. Script to calculate the footpring and the ground pixel
     resolution of images for the planning of an aerial survey. Version 1.0, 
-    https://github.com/GeoRiskA/Aerial_Survey_Planning
+    https://github.com/GeoRiskA/Aerial_Survey_Planning.
+    DOI: 10.5281/zenodo.4762100
 
 Camera models currently available:
     - FC330 (DJI Phantom 4 - 12MPix)
