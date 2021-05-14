@@ -14,9 +14,9 @@ These scripts are open-source and under a GPL-3.0 licence.
 If you use these scripts or a tuned version of them in your work, please cite them according to the citation information provided within the script. Thank you!
   
 ### Author(s):  
-***Benoît Smets***
-  Natural Hazards Service (GeoRiskA), Dpt. of Earth Sciences, ROYAL MUSEUM FOR CENTRAL AFRICA (Belgium)
-  Cartography and GIS Research Group, Dpt. of Geography, VRIJE UNIVERSITEIT BRUSSEL (Belgium)
-  *E-MAIL:* benoit (at) africamuseum.be
-  *WEBSITES:* https://georiska.africamuseum.be/ | https://we.vub.ac.be/en/cartography-and-gis | https://bsmets.net/
+***Benoît Smets***  
+  Natural Hazards Service (GeoRiskA), Dpt. of Earth Sciences, ROYAL MUSEUM FOR CENTRAL AFRICA (Belgium)  
+  Cartography and GIS Research Group, Dpt. of Geography, VRIJE UNIVERSITEIT BRUSSEL (Belgium)  
+  *E-MAIL:* benoit (at) africamuseum.be  
+  *WEBSITES:* https://georiska.africamuseum.be/ | https://we.vub.ac.be/en/cartography-and-gis | https://bsmets.net/  
   
