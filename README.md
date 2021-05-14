@@ -9,4 +9,5 @@ The scripts help to select the proper camera parameters, flight speed, flight el
 - **UAS_min_ShutterSpeed_calculation_v100.py:** Script allowing the calculation of the minimum and ideal (security threshold) shutter speed for a given flight speed, in order to avoid image blurring.
 
 ### Licence and citation:
-These scripts are open-source and under a GNU
+These scripts are open-source and under a GPL-3.0 licence.
+If you use these scripts or a tuned version of them in your work, please cite them according to the citation information provided within the script. Thank you!
