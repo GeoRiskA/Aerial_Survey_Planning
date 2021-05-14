@@ -11,8 +11,9 @@ Author: Benoît SMETS
        (Royal Museum for Central Africa / Vrije Universiteit Brussel)
 
 Citation:
-    Smets, B., 2021. Script to calculate the footpring and the ground pixel
-    resolution of images for the planning of an aerial survey. Version 1.0, 
+    Smets, B., 2021.
+    Aerial Survey Planning [UAS_footprint_and_GSD_Table_v100.py].
+    Version 1.0
     https://github.com/GeoRiskA/Aerial_Survey_Planning.
     DOI: 10.5281/zenodo.4762100
 
