@@ -1,4 +1,5 @@
 # Aerial Survey Planning  
+[![DOI](https://zenodo.org/badge/367345642.svg)](https://zenodo.org/badge/latestdoi/367345642)
 
 This repository is a collection of Python scripts used to properly prepare/plan an aerial imaging survey.  
 
