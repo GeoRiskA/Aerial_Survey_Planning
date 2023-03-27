@@ -16,7 +16,7 @@ If you use these scripts or a tuned version of them in your work, please cite th
   
 ## Author(s):  
 ***Benoît Smets***  
-  Natural Hazards Service (GeoRiskA), Dpt. of Earth Sciences, ROYAL MUSEUM FOR CENTRAL AFRICA (Belgium)  
+  Natural Hazards and Cartography Service (GeoRiskA), Dpt. of Earth Sciences, ROYAL MUSEUM FOR CENTRAL AFRICA (Belgium)  
   Cartography and GIS Research Group, Dpt. of Geography, VRIJE UNIVERSITEIT BRUSSEL (Belgium)  
   *E-MAIL:* benoit (at) africamuseum.be  
   *WEBSITES:* https://georiska.africamuseum.be/  |  https://we.vub.ac.be/en/cartography-and-gis  |  https://bsmets.net/  
